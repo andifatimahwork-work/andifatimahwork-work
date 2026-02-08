@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Andi Fatimah as Data and AI Enthusiast
 
 <!--
 **andifatimahwork-work/andifatimahwork-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
